@@ -1,0 +1,3 @@
+# Referenced at /home/diadji/Documents/DEV/JavaScript/ReactJs/Projet/WahSahaLat-v1.0/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:28
+-keep class com.esmt.wahsahalat.MainApplication { <init>(...); }
+

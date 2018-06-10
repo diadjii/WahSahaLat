@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">469763873745-ao0c9r7c6mqn6at8csi0i30oq9qb2gab.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://wahsahalat-e0340.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">469763873745</string>
+    <string name="google_api_key" translatable="false">AIzaSyCKYF4jUb2S-t3dZa525v17pd8gKwoHv8k</string>
+    <string name="google_app_id" translatable="false">1:469763873745:android:d8b2170817893e69</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCKYF4jUb2S-t3dZa525v17pd8gKwoHv8k</string>
+    <string name="google_storage_bucket" translatable="false">wahsahalat-e0340.appspot.com</string>
+    <string name="project_id" translatable="false">wahsahalat-e0340</string>
+</resources>

@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "469763873745",
+    "firebase_url": "https://wahsahalat-e0340.firebaseio.com",
+    "project_id": "wahsahalat-e0340",
+    "storage_bucket": "wahsahalat-e0340.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469763873745:android:d8b2170817893e69",
+        "android_client_info": {
+          "package_name": "com.esmt.wahsahalat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469763873745-ao0c9r7c6mqn6at8csi0i30oq9qb2gab.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "469763873745-ao0c9r7c6mqn6at8csi0i30oq9qb2gab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKYF4jUb2S-t3dZa525v17pd8gKwoHv8k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
